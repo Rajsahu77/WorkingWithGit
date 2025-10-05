@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j_S9CDgIwUKArqKlqj87lg" Reference="0bqOetn_MEyCO5MdFFLIqQ/fIL-sUEklkaa6APlcLUlwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.uipath.com/automation-cloud/automation-cloud/latest/admin-guide/functional-security" CVScreenId="0b5a9830-b0a9-4860-9f20-9e4f4f3a526c" DesignTimeRectangle="146, 667, 154, 23" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='default' tag='UL' parentclass='nav nav-list' /&gt;&lt;webctrl aaname='*Historical Fiction*' tag='A' /&gt;" Guid="df868dac-adb9-4f5e-9fbb-c656bef51d60" ScopeSelectorArgument="&lt;html app='chrome.exe' title='All products | Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67129d468367cdd775edba6a0f398ffe.png" xmlns="">02DwVNi0HNUa6C3_XMvzQpA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,6 @@
+{
+  "Name": "DemoPractiseWorkflow",
+  "ProjectType": "Process",
+  "Description": "This is a sample test project for orchestrator testing.",
+  "MainFile": "Main.xaml"
+}
